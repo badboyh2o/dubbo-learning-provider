@@ -6,8 +6,8 @@
 
     引入依赖: dubbo zkclient
     
-    配置dubbo扫描包、和zookeeper注册中心
+    配置文件 配置dubbo扫描包、和zookeeper注册中心
     
-    使用dubbo注解 @Service 发布服务
+    业务层 使用dubbo注解 @Service 发布服务
     
  3.启动 服务提供方
